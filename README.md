@@ -24,4 +24,4 @@ Cursando Ciência da Computação na UFCG (Universidade Federal de Campina Grand
 ---
 - 📊 Algumas estatísticas
 
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joarez-filho&show_icons=true&theme=dracula)
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joarez-filho&show_icons=true&theme=dracula&rank_icon=github)
