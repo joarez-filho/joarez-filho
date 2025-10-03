@@ -18,9 +18,10 @@ Cursando Ciência da Computação na UFCG (Universidade Federal de Campina Grand
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 </div>
 - 📫 Como entrar em contato comigo
-<a href="mailto:joarez1201@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="left">
+<a href="mailto:joarez1201@gmail.com" target="_blank"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
 
 ---
 - 📊 Algumas estatísticas
