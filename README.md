@@ -1,7 +1,5 @@
 ### Olá 👋, sou [Joarez Tomaz de Lima Filho]
 
-**[Desenvovledor Full Stack]**
-
 Cursando Ciência da Computação na UFCG (Universidade Federal de Campina Grande).
 
 ---
