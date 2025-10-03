@@ -7,7 +7,7 @@ Cursando Ciência da Computação na UFCG (Universidade Federal de Campina Grand
 ---
 
 - 🌱 Estou aprendendo atualmente
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
