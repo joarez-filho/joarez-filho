@@ -44,6 +44,7 @@ Cursando **Ciência da Computação na UFCG (Universidade Federal de Campina Gra
 
 
 <details>
+<br>
 
 ![Gato](https://media.tenor.com/13MO7LUAShwAAAAM/fadding-cat.gif)
 
