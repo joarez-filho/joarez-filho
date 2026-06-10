@@ -1,4 +1,4 @@
-# Olá 👋, sou [Joarez Tomaz de Lima Filho]
+# Olá 👋, sou Joarez Tomaz de Lima Filho
 
 Cursando **Ciência da Computação na UFCG (Universidade Federal de Campina Grande).**
 
@@ -16,7 +16,7 @@ Cursando **Ciência da Computação na UFCG (Universidade Federal de Campina Gra
 <div align="left">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src=https://skillicons.dev/icons?i=html,css,fastapi,git,github,docker,linux,mongodb,spring>
+<img src=https://skillicons.dev/icons?i=html,css,fastapi,docker,linux,mongodb,spring>
 
 </div>
 
